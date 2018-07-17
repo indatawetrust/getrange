@@ -1,0 +1,29 @@
+{
+  "name": "getrange",
+  "version": "0.0.1",
+  "description": "Defines a range",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/indatawetrust/getrange.git"
+  },
+  "keywords": [
+    "define",
+    "range",
+    "list",
+    "array",
+    "create"
+  ],
+  "author": "indatawetrust",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/indatawetrust/getrange/issues"
+  },
+  "homepage": "https://github.com/indatawetrust/getrange#readme",
+  "devDependencies": {
+    "ava": "^0.25.0"
+  }
+}
