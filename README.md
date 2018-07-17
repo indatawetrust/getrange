@@ -1,16 +1,16 @@
-[![Build Status](https://travis-ci.org/indatawetrust/getrange.svg?branch=master)](https://travis-ci.org/indatawetrust/getrange)
+[![Build Status](https://travis-ci.org/indatawetrust/makerange.svg?branch=master)](https://travis-ci.org/indatawetrust/makerange)
 
 #### features
 - Defines a range
 
 #### install
 ```
-npm i getrange --save
+npm i makerange --save
 ```
 
 #### usage
 ```js
-const range = require('getrange')
+const range = require('makerange')
 
 range(1, 10)
 // [1,2,3,4,5,6,7,8,9,10]
