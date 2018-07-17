@@ -1,6 +1,7 @@
-# getrange
+[![Build Status](https://travis-ci.org/indatawetrust/valuecache.svg?branch=master)](https://travis-ci.org/indatawetrust/valuecache)
 
-Defines a range
+#### features
+- Defines a range
 
 #### install
 ```
@@ -8,7 +9,7 @@ npm i getrange --save
 ```
 
 #### usage
-```
+```js
 const range = require('getrange')
 
 range(1, 10)
