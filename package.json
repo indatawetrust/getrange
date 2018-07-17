@@ -1,6 +1,6 @@
 {
-  "name": "getrange",
-  "version": "0.0.1",
+  "name": "makerange",
+  "version": "0.0.2",
   "description": "Defines a range",
   "main": "index.js",
   "scripts": {
