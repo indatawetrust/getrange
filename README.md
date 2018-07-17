@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/indatawetrust/valuecache.svg?branch=master)](https://travis-ci.org/indatawetrust/valuecache)
+[![Build Status](https://travis-ci.org/indatawetrust/getrange.svg?branch=master)](https://travis-ci.org/indatawetrust/getrange)
 
 #### features
 - Defines a range
